@@ -18,3 +18,7 @@ BONUS
 Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
 Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+
+NOTES
+
+AlphaTest files are gradual versions of code testing for the Mutiple Year Stock data files.
